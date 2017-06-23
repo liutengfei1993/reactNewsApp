@@ -4,7 +4,7 @@
 
 技术栈: React+AntDesign+Webpack+ES6
 
-实现了登录,注册,评论，收藏等功能
+实现了登录,注册,评论,收藏等功能
 
 npm install
 
